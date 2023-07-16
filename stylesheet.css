@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+}
+
+#heading {
+    color:rgb(108, 13, 197);
+    text-align: center;
+    margin: auto;
+    padding-top: 100px;
+    font-weight: 14px;
+    
+}
+
+.topnav {
+    
+    height: 50px;
+    margin: auto;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 16px;
+    background-color: rgb(99, 89, 112);
+    
+
+}
+
+.topnav a {
+color:white;  
+text-align: center;
+margin: auto;
+padding-left: 20px;
+font-size: 14px;
+font-weight: bold;
+text-decoration: none;
+}
+
+
+input[type=text] {
+    height: 40px;
+    width: 500px;
+   border-radius: 3px solid black;
+    
+   
+}
+
+.container {
+   padding-top: 50px;
+   padding-left: 500px;
+   text-align: center;
+   
+   
+}
+button[type=button] {
+    height: 40px;
+    width: 100px;
+    background-color: rgb(108, 13, 197);
+    margin-bottom: 7px;
+}
+
+.card  {
+        width: 500px;
+        margin: auto;
+        color: white;
+       
+}
+
+.card-body {
+    background-color: rgb(99, 89, 112);
+    font-size: 20px;
+    color: white;
+    
+}
+
